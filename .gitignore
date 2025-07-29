@@ -1,0 +1,29 @@
+# Dependency directories
+node_modules/
+
+# Production build directories
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Parcel cache (optional but recommended)
+.cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor-specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
