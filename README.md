@@ -1,6 +1,6 @@
 Set up instruction 
 git clone https://github.com/kushalverma02/shopping-cart-react.git
-cd internship-project
+cd shopping-cart-react
 
 npm install                                  # Install all dependencies
 npm install parcel                           # Install Parcel bundler
