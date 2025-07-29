@@ -30,7 +30,7 @@
 95C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\tar\dist\esm\parse.d.ts.map133982436025481475 0
 93C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\@tailwindcss\postcss\dist133982435983603342 1
 58C:\Users\User\Desktop\clone projet\shopping-cart-react\src133982415235316721 1
-59C:\Users\User\Desktop\clone projet\shopping-cart-react\dist133982438152981148 1
+59C:\Users\User\Desktop\clone projet\shopping-cart-react\dist133982459906512682 1
 92C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\enhanced-resolve\LICENSE133982435977548342 0
 76C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\minipass133982435988039518 1
 102C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\source-map-js\lib\binary-search.js133982435982043958 0
@@ -41,7 +41,7 @@
 72C:\Users\User\Desktop\clone projet\shopping-cart-react\package-lock.json133982436033749786 0
 75C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\postcss133982435994484984 1
 92C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\postcss\lib\processor.js133982435990890747 0
-64C:\Users\User\Desktop\clone projet\shopping-cart-react\README.md133982415235193983 0
+64C:\Users\User\Desktop\clone projet\shopping-cart-react\README.md133982454714752087 0
 118C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\react-dom\cjs\react-dom.react-server.production.js133982436025904689 0
 65C:\Users\User\Desktop\clone projet\shopping-cart-react\src\App.js133982426853250050 0
 103C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\react-dom\profiling.react-server.js133982435982495957 0
@@ -74,7 +74,7 @@
 81C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\scheduler\cjs133982435985910537 1
 79C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\tailwindcss133982436000632249 1
 96C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\postcss\lib\stringifier.d.ts133982436011020231 0
-77C:\Users\User\Desktop\clone projet\shopping-cart-react\src\components\Cart.js133982428706754468 0
+77C:\Users\User\Desktop\clone projet\shopping-cart-react\src\components\Cart.js133982459897400128 0
 98C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\tar\dist\commonjs\parse.js.map133982436025548004 0
 83C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\mkdirp\dist\cjs133982435990321528 1
 95C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\source-map-js\source-map.js133982435985620683 0
@@ -95,7 +95,7 @@
 104C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\mkdirp\dist\mjs\mkdirp-manual.js.map133982435995455121 0
 109C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\magic-string\dist\magic-string.es.mjs.map133982435985762897 0
 77C:\Users\User\Desktop\clone projet\shopping-cart-react\src\components\Home.js133982428472917208 0
-95C:\Users\User\Desktop\clone projet\shopping-cart-react\dist\shopping-cart-react.2c54e4d8.js.map133982438152419850 0
+95C:\Users\User\Desktop\clone projet\shopping-cart-react\dist\shopping-cart-react.2c54e4d8.js.map133982459906481905 0
 85C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\set-cookie-parser133982435979834781 1
 109C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\tar\dist\esm\strip-absolute-path.d.ts.map133982436026471503 0
 78C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\picocolors133982435982992206 1
@@ -1107,5 +1107,5 @@
 83C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\.bin\mkdirp.ps1133982436029530523 0
 83C:\Users\User\Desktop\clone projet\shopping-cart-react\node_modules\.bin\nanoid.ps1133982436029547981 0
 70C:\Users\User\Desktop\clone projet\shopping-cart-react\dist\index.html133982438150241993 0
-91C:\Users\User\Desktop\clone projet\shopping-cart-react\dist\shopping-cart-react.2c54e4d8.js133982438152078167 0
+91C:\Users\User\Desktop\clone projet\shopping-cart-react\dist\shopping-cart-react.2c54e4d8.js133982459906119551 0
 92C:\Users\User\Desktop\clone projet\shopping-cart-react\dist\shopping-cart-react.61d3354a.css133982438152500310 0

@@ -66,7 +66,7 @@ export default function Cart(props) {
                 <img
                   src={item.image}
                   alt={item.name}
-                  className="w-24 h-24 object-cover rounded"
+                  className="w-24  object-cover rounded"
                 />
                 <div className="flex flex-col flex-grow text-left">
                   <h3 className="text-xl font-semibold">{item.name}</h3>
