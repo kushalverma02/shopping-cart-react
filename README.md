@@ -40,6 +40,7 @@ Tech Stack used
 
 ----------
 
+
 ## 📁 Project Structure
 
 ```bash
@@ -54,5 +55,17 @@ your-project/
 ├── App.js                # App routing and global state
 ├── index.js              # Entry point
 ├── index.css             # Tailwind and global styles
+```
+
+📄 Project Description
+When a user visits the webpage, they are presented with a clean and simple UI displaying item cards. Each card includes product details, an "Add to Cart" button, and an option to apply a coupon code.
+If the user enters a promo code of the format FLAT50, a 50% discount is applied to the item price. When the user clicks "Add to Cart", the discount is applied, the item is added to the cart, and a confirmation popup is displayed.
+To add more units of the same item, the user must navigate to the Cart section of the website.
+
+In the Cart section, the selected products are displayed with their full details and discounted price. The user can:
+ -Increase or decrease the quantity using + and – buttons (up to a maximum of 5 units per item)
+ -Remove items entirely using the Remove button
+ -See both the original total price and the discounted total price
+ -The + button gets disabled when the item reaches the maximum quantity limit. The cart automatically recalculates and displays the total cost as items are added or removed.
 
 
