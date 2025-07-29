@@ -1,9 +1,7 @@
 import CartSection from "./Cart"
 import Home from "./Home"
-import { Link } from 'react-router';
+import { Link } from 'react-router-dom';
 
-
-import { BrowserRouter, Routes, Route, Link } from 'react-router';
 export default function HeaderSection(props) {
     return (
         <>
@@ -33,5 +31,4 @@ export default function HeaderSection(props) {
             </header>
         </>
     )
-
 }

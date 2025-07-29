@@ -1,8 +1,8 @@
 import { useState } from "react";
 import ReactDom from "react-dom/client"
 import Home from "./components/Home"
+import { BrowserRouter,Routes, Route  } from 'react-router-dom';
 
-import { BrowserRouter, Routes, Route } from 'react-router';
 import Cart from "./components/Cart";
 import Layout from "./components/layout";
 
